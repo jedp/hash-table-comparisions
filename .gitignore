@@ -1,0 +1,17 @@
+cmake_install.cmake
+cmake-build-debug/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+
+*.o
+hash_table_comparison
+
+tags
+
+*sw[op]
+*~
+
+.idea
+.DS_Store
+
